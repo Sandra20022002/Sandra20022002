@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alexandra Balueva, Data Analyst from St Petersnurg, Russia
+I'm Alexandra Balueva, Data Analyst from St Petersburg, Russia
 
 
 - 🔭 I’m currently working on study Data Analysis projects - some of them are uploaded here
